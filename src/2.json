@@ -1,0 +1,321 @@
+[{
+    "rate": "100",
+    "ip": "45.32.33.168",
+    "port": "443",
+    "password": "Sin1234qwer",
+    "method": "aes-256-cfb",
+    "time": "10:22:11",
+    "location": "JP"
+}, {
+    "rate": "100",
+    "ip": "207.148.100.144",
+    "port": "57090",
+    "password": "01091932",
+    "method": "aes-256-gcm",
+    "time": "10:22:05",
+    "location": "*JP"
+}, {
+    "rate": "100",
+    "ip": "172.105.232.57",
+    "port": "17794",
+    "password": "43912956",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "JP"
+}, {
+    "rate": "100",
+    "ip": "45.32.34.49",
+    "port": "17826",
+    "password": "56436697",
+    "method": "aes-256-gcm",
+    "time": "10:22:05",
+    "location": "*JP"
+}, {
+    "rate": "100",
+    "ip": "ipv6jp2.free-ss.site",
+    "port": "57090",
+    "password": "01091932",
+    "method": "aes-256-gcm",
+    "time": "10:22:06",
+    "location": "*JP"
+}, {
+    "rate": "100",
+    "ip": "192.241.202.44",
+    "port": "16946",
+    "password": "60134702",
+    "method": "aes-256-cfb",
+    "time": "10:22:04",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "172.104.70.67",
+    "port": "12403",
+    "password": "62525138",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "JP"
+}, {
+    "rate": "100",
+    "ip": "172.105.211.96",
+    "port": "4578",
+    "password": "cf13c7a3",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "JP"
+}, {
+    "rate": "100",
+    "ip": "64.137.164.186",
+    "port": "23333",
+    "password": "www.rygtx.com",
+    "method": "salsa20",
+    "time": "10:22:10",
+    "location": "CA"
+}, {
+    "rate": "100",
+    "ip": "207.148.102.124",
+    "port": "57465",
+    "password": "50538239",
+    "method": "aes-256-gcm",
+    "time": "10:22:05",
+    "location": "*JP"
+}, {
+    "rate": "100",
+    "ip": "172.104.82.141",
+    "port": "4578",
+    "password": "fdf8d072",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "JP"
+}, {
+    "rate": "100",
+    "ip": "54.37.177.131",
+    "port": "4000",
+    "password": "freess.pw",
+    "method": "aes-256-cfb",
+    "time": "10:22:10",
+    "location": "FR"
+}, {
+    "rate": "100",
+    "ip": "172.105.229.118",
+    "port": "12584",
+    "password": "07055792",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "JP"
+}, {
+    "rate": "100",
+    "ip": "185.133.43.145",
+    "port": "5252",
+    "password": "52ssr.cn",
+    "method": "aes-192-ctr",
+    "time": "10:22:09",
+    "location": "RU"
+}, {
+    "rate": "100",
+    "ip": "139.162.88.173",
+    "port": "10312",
+    "password": "68540842",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "JP"
+}, {
+    "rate": "100",
+    "ip": "213.183.48.10",
+    "port": "17747",
+    "password": "22687904",
+    "method": "rc4-md5",
+    "time": "10:22:05",
+    "location": "RU"
+}, {
+    "rate": "100",
+    "ip": "64.137.225.172",
+    "port": "9966",
+    "password": "ff.tn",
+    "method": "aes-256-cfb",
+    "time": "10:22:06",
+    "location": "CA"
+}, {
+    "rate": "100",
+    "ip": "128.199.134.194",
+    "port": "11833",
+    "password": "M2E0MDFkNzBl",
+    "method": "rc4-md5",
+    "time": "10:22:06",
+    "location": "SG"
+}, {
+    "rate": "100",
+    "ip": "172.105.204.39",
+    "port": "17383",
+    "password": "88818170",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "JP"
+}, {
+    "rate": "100",
+    "ip": "159.89.153.160",
+    "port": "6299",
+    "password": "i.wuw.red",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "64.137.246.174",
+    "port": "8989",
+    "password": "0123456789",
+    "method": "chacha20",
+    "time": "10:22:22",
+    "location": "CA"
+}, {
+    "rate": "100",
+    "ip": "159.89.133.233",
+    "port": "443",
+    "password": "Zjc789456123?",
+    "method": "aes-256-cfb",
+    "time": "10:22:09",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "45.33.109.182",
+    "port": "18628",
+    "password": "70988872",
+    "method": "aes-256-cfb",
+    "time": "10:22:04",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "159.65.0.11",
+    "port": "9847",
+    "password": "ZDFiN2NjYjA3",
+    "method": "rc4-md5",
+    "time": "10:22:06",
+    "location": "SG"
+}, {
+    "rate": "100",
+    "ip": "192.241.220.97",
+    "port": "14960",
+    "password": "94487800",
+    "method": "aes-256-cfb",
+    "time": "10:22:04",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "ipv6jp1.free-ss.site",
+    "port": "43798",
+    "password": "60625923",
+    "method": "aes-128-gcm",
+    "time": "10:22:06",
+    "location": "*JP"
+}, {
+    "rate": "100",
+    "ip": "ipv6jp3.free-ss.site",
+    "port": "57465",
+    "password": "50538239",
+    "method": "aes-256-gcm",
+    "time": "10:22:07",
+    "location": "*JP"
+}, {
+    "rate": "100",
+    "ip": "ipv6jp4.free-ss.site",
+    "port": "17826",
+    "password": "56436697",
+    "method": "aes-256-gcm",
+    "time": "10:22:09",
+    "location": "*JP"
+}, {
+    "rate": "100",
+    "ip": "192.241.214.238",
+    "port": "15427",
+    "password": "07070329",
+    "method": "aes-256-cfb",
+    "time": "10:22:04",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "198.199.114.86",
+    "port": "12656",
+    "password": "32784622",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "104.192.81.17",
+    "port": "4578",
+    "password": "45c08d21",
+    "method": "aes-256-cfb",
+    "time": "10:22:05",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "159.89.136.216",
+    "port": "18580",
+    "password": "YTY2YTgxODI1",
+    "method": "rc4-md5",
+    "time": "10:22:09",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "74.207.245.147",
+    "port": "14404",
+    "password": "17904889",
+    "method": "aes-256-cfb",
+    "time": "10:22:04",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "46.173.213.122",
+    "port": "55555",
+    "password": "free",
+    "method": "rc4-md5",
+    "time": "10:22:09",
+    "location": "RU"
+}, {
+    "rate": "100",
+    "ip": "45.77.19.220",
+    "port": "43798",
+    "password": "60625923",
+    "method": "aes-128-gcm",
+    "time": "10:22:05",
+    "location": "*JP"
+}, {
+    "rate": "100",
+    "ip": "192.241.219.13",
+    "port": "15231",
+    "password": "68135183",
+    "method": "aes-256-cfb",
+    "time": "10:22:04",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "198.199.106.195",
+    "port": "17324",
+    "password": "74295740",
+    "method": "aes-256-cfb",
+    "time": "10:22:04",
+    "location": "US"
+}, {
+    "rate": "100",
+    "ip": "192.241.215.211",
+    "port": "18291",
+    "password": "93511014",
+    "method": "aes-256-cfb",
+    "time": "10:22:04",
+    "location": "US"
+}, {
+    "rate": "95",
+    "ip": "64.137.236.177",
+    "port": "9966",
+    "password": "123qwe",
+    "method": "aes-256-cfb",
+    "time": "10:22:08",
+    "location": "CA"
+}, {
+    "rate": "90",
+    "ip": "192.241.228.221",
+    "port": "11148",
+    "password": "54655516",
+    "method": "aes-256-cfb",
+    "time": "10:22:04",
+    "location": "US"
+}]
